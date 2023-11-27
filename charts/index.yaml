@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  helm-sample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-27T11:32:08.795143+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1ba6d827b6a269434b821a6fa13f52b9a9ce087714e1ce8624b428f2e38aff4c
+    name: helm-sample
+    type: application
+    version: 0.1.0
+    home: https://aidashi.github.io/helmexample
+    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    kubeVersion: ^1.10.0-0
+    keywords:
+    - helm-sample
+    - elastic
+    - vector
+    - search
+    - deploy
+    maintainers:
+    - email: ly_liubo@163.com
+      name: lucas
+      url: https://aidashi.github.io/helmexample
+    sources:
+    - https://github.com/lucas234/helm-charts
+    urls:
+    - https://github.com/lucas234/helm-charts/blob/main/charts/helm-sample-0.1.0.tgz
+generated: "2023-11-27T11:32:08.793495+08:00"
