@@ -9,8 +9,7 @@ entries:
     name: helm-sample
     type: application
     version: 0.1.0
-    home: https://aidashi.github.io/helmexample
-    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    home: https://lucas234.github.io/helm-charts/
     kubeVersion: ^1.10.0-0
     keywords:
     - helm-sample
@@ -21,7 +20,7 @@ entries:
     maintainers:
     - email: ly_liubo@163.com
       name: lucas
-      url: https://aidashi.github.io/helmexample
+      url: https://lucas234.github.io/helm-charts/
     sources:
     - https://github.com/lucas234/helm-charts
     urls:
