@@ -49,7 +49,7 @@ entries:
     sources:
     - https://github.com/lucas234/helm-charts
     urls:
-    - https://github.com/lucas234/helm-charts/blob/main/charts/helm-sample-0.1.0.tgz
+    - https://raw.githubusercontent.com/lucas234/helm-charts/main/charts/helm-sample-0.1.0.tgz
 generated: "2023-11-27T11:32:08.793495+08:00"
 ```
 
